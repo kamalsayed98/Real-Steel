@@ -1,0 +1,22 @@
+.center {
+    padding: 5cm;
+    text-align: center;
+}
+
+.logo {
+    max-width: 12cm;
+    height: auto;
+}
+
+.store {
+    width: 15cm;
+    height: auto;
+}
+
+.title {
+    font-size: 3cm;
+}
+
+.name {
+    font-size: 1.5cm;
+}
